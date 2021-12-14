@@ -47,6 +47,7 @@ public class Review {
     public String getReviewTitle() {
         return reviewTitle;
     }
+
     public String getReviewPlusBookTitle() {
         return bookTitle + ": " + reviewTitle;
     }

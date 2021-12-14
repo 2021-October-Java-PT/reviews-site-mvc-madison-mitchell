@@ -64,7 +64,6 @@ public class ReviewRepository {
                 "together.", "Fantasy", "4.8/5", "816");
 
 
-
         reviewList.put(acotar.getId(), acotar);
         reviewList.put(acomaf.getId(), acomaf);
         reviewList.put(acowar.getId(), acowar);
